@@ -3,8 +3,8 @@
 import argparse
 import sys
 
-import cv2
-import numpy as np
+import cv2  # type: ignore
+import numpy as np  # type: ignore
 
 """
 Created on Wed Mar  2 13:04:53 2022
